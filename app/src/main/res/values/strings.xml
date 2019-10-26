@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="overview">Overview</string>
+    <string name="overview_detail">Overview Detail</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="year">Year</string>
+    <string name="movies">Movies</string>
+    <string name="tv_shows">TV SHOWS</string>
+    <string name="genre">Genre</string>
+    <string name="genre_detail">Genre Detail</string>
+    <string name="duration">Duration</string>
+    <string name="duration_detail">Duration Detail</string>
+    <string name="director">Director</string>
+    <string name="director_detail">Director Detail</string>
+    <string name="discussion_btn">DISCUSSION</string>
+    <string name="review_btn">REVIEW</string>
+    <string name="cast_btn">CAST</string>
+    <string name="production">Production</string>
+    <string name="search_hint">Search Movie...</string>
+</resources>
